@@ -1,0 +1,253 @@
+[33mcommit eaef16aa0a61845939066f72dc3e9317941d4677[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: haeun jeon <yul__koo@naver.com>
+Date:   Tue Apr 9 16:29:00 2024 +0900
+
+    artx
+
+[33mcommit d8abcfae3a96e9e0b530cd26d168b4ec40c482e5[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Mon Nov 27 14:58:32 2023 +0900
+
+    ARTX-0 css 2 (#37)
+
+[33mcommit f1fd31d41e66663d937a77288397d266ec7f2d1c[m
+Author: CHOI JAHYUN <0912jh@gmail.com>
+Date:   Mon Nov 27 13:43:12 2023 +0900
+
+    develop for main
+
+[33mcommit 65e71c5e70285a4ddf813a79bf4abd996128713b[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Mon Nov 27 13:37:47 2023 +0900
+
+    ARTX-41 css edited (#36)
+
+[33mcommit b8720e5cf263b73a9894aa19cb6c53938450c428[m
+Author: dlworhd <dlwodud821@gmail.com>
+Date:   Mon Nov 27 08:02:54 2023 +0900
+
+    ARTX-0 chore: CSS 일부 수정
+
+[33mcommit 40efb6dbee7efc5c5e098519fa71fdf9cd2b2722[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Mon Nov 27 04:51:10 2023 +0900
+
+    ARTX-41 (#35)
+
+[33mcommit bc85e53f5f4522f681608846919726bcb5f66b09[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Sun Nov 26 20:11:29 2023 +0900
+
+    Artx 84 관리자센터 작업중 (#34)
+    
+    * ARTX-84 working on UserManagement
+    
+    * ARTX-75 feat: working on shipment
+    
+    * ARTX-84 feat: working on shipment
+
+[33mcommit 544d9fac9f4a4c769d2b8bc17bfc49d38db680ab[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Sun Nov 26 15:15:17 2023 +0900
+
+    Feature/artx 121 (#33)
+    
+    * Feature/ARTX-121 feat:작가/작품 등록 api 요청 완료
+    
+    * Feature/ARTX-121
+    
+    * Feature/ARTX-121 api 수정
+
+[33mcommit 8d32a4502a82052f094b5d47925ba7ccaf5bcefc[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Sun Nov 26 00:35:51 2023 +0900
+
+    Feature/artx 121 (#32)
+    
+    * Feature/ARTX-121 feat:작가/작품 등록 api 요청 완료
+    
+    * Feature/ARTX-121
+
+[33mcommit a2fda1df5443faa73bc984dd8bc64139fbb8be96[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Sat Nov 25 20:52:19 2023 +0900
+
+    ARTX-110 login done (#31)
+
+[33mcommit 541b17e9e9d740afce1b2660f822aab9a5a260dd[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Sat Nov 25 13:06:56 2023 +0900
+
+    Artx 75 마이페이지 작성중 (#30)
+    
+    * ARTX-0
+    
+    * ARTX-75 fix Redux
+    
+    * ARTX-75 mypage 내  개인정보페이지 데이터연동
+    
+    * profile image save success
+    
+    * ARTX-75 workin on mypage
+    
+    * ARTX-75 feat: modal
+    
+    * ARTX-75 personalInfo Done
+
+[33mcommit ddca2fcb2b012d552c3b82823c45562a4e6c5aba[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Sat Nov 25 03:21:28 2023 +0900
+
+    Feature/artx 121 (#29)
+    
+    * Feature/ARTX-121 feat:작가/작품 등록 api 요청 완료
+
+[33mcommit d38a4b635d7c1614b2fbdefb77812bf5f1dbb0d7[m
+Author: dlworhd <dlwodud821@gmail.com>
+Date:   Thu Nov 23 01:28:53 2023 +0900
+
+    ARTX-118 feat: Add Channel IO API
+
+[33mcommit 1d684d4597388e891b69853033b470ee9717bfe3[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Wed Nov 22 10:17:14 2023 +0900
+
+    ARTX-75 feat: working on mypage (#27)
+
+[33mcommit a8520ce0943bb6dc04062c1061891048b1fa349f[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Wed Nov 22 01:02:37 2023 +0900
+
+    ARTX-75 feat: working on mypage (#26)
+
+[33mcommit fadd784d64b0fdf0841abe8be8d45f3848d7c77d[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Tue Nov 21 20:36:47 2023 +0900
+
+    Feature/ARTX-108 고객센터 구현 (#25)
+
+[33mcommit b6e8c723ff70c630b00d56fae5df7340defbde3e[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Tue Nov 21 17:50:58 2023 +0900
+
+    ARTX-110 feat:  로그인 수정중 (#24)
+
+[33mcommit cfe4e50bbc325ac37c54b1deaa3102fb5ddcc63d[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Mon Nov 20 16:25:47 2023 +0900
+
+    Artx 110 - 로그인 완료 (#23)
+    
+    * ARTX-110 login page2
+    
+    * ARTX-110 feat: Login fixing
+    
+    * ARTX-110 login ing
+    
+    * ARTX-110 login keeping done
+    
+    * ARTX-110 feat: Login fixing
+    
+    * ARTX-110 login keeping done2
+    
+    * ATRX-110 완료 및 디벨롭 병합3
+    
+    * ARTX-110 디벨롭머지완료
+
+[33mcommit 51a8757439eabadd78d71eccd989ee185bc2addd[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Thu Nov 16 19:20:27 2023 +0900
+
+    Feature/ARTX-48 feat:카카오페이 결제 연동 구현 (#20)
+
+[33mcommit 001f1afc2bf10ee501237afd1562130afa6c34bb[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Wed Nov 15 16:36:31 2023 +0900
+
+    Feature/ARTX-88 feat:작가센터 구현 (#19)
+
+[33mcommit ce0a41dbaefa17ee1ba2e12758a79f92ddde613d[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Wed Nov 15 16:13:42 2023 +0900
+
+    ARTX-83 feat: modal finish (#18)
+
+[33mcommit 6f7ec8506af989ab220e3b70924f1da4689cbb36[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Wed Nov 15 12:26:03 2023 +0900
+
+    ARTX-41 메인화며 api연동부분 수정 (#17)
+
+[33mcommit f2b0b5b0272c4e8a42e38cc94b0302bb383ebed0[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Wed Nov 15 11:22:16 2023 +0900
+
+    Feature/artx 110 login, sign in fix (#16)
+    
+    * feat: new customer menus on header
+    
+    * Feature/ARTX-65 feat: 제품페이지 장바구니 연동 (#15)
+    
+    * ARTX-110 feat: login
+    
+    * ARTX-110 feat: fix sign in
+    
+    ---------
+    
+    Co-authored-by: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+
+[33mcommit 694f5a8f7e6964009586f8b0e3d65488b1024b5e[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Tue Nov 14 10:42:11 2023 +0900
+
+    Feature/ARTX-65 feat: 제품페이지 장바구니 연동 (#15)
+
+[33mcommit 4c21aa9880aefe068bcea6660d37fe8384e9c38b[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Tue Nov 14 01:25:54 2023 +0900
+
+     Feature/ARTX-90 (#14)
+
+[33mcommit 5db8fd9be442679f0bb34e39cb5dd606979ec00f[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Tue Nov 14 00:06:06 2023 +0900
+
+    Feature/artx 101 "feat: new customer menus on header" (#13)
+    
+    * ARTX-0 0
+    
+    * feat: new customer menus on header
+
+[33mcommit 706cbaa02c7ecc76a83294dc759482c555d85409[m
+Author: Jahyun Choi <119170650+JahyunChoi@users.noreply.github.com>
+Date:   Mon Nov 13 00:11:20 2023 +0900
+
+    Artx-81 feat: Sign In (#12)
+    
+    * ARTX-0 init: 패키지 초기화
+    
+    * ARTX-0 init: 백업 파일 초기화
+    
+    * feat: sign up
+    
+    * ARTX-81 feat: join in
+    
+    * Feat: Login
+    
+    * ARTX-81
+    
+    ---------
+    
+    Co-authored-by: dlworhd <dlwodud821@gmail.com>
+
+[33mcommit 05b78b4f7766c7953fe32aa50a0eddda4f2f36a5[m
+Author: gggggdsa <130285905+gggggdsa@users.noreply.github.com>
+Date:   Sat Nov 11 02:56:02 2023 +0900
+
+    ARTX-92 feat: 카카오페이 결제 취소 페이지 구현 (#10)
+
+[33mcommit 3b880f438deb7af9f81ee90a9f140346be9e3f51[m
+Author: haeun jeon <yul__koo@naver.com>
+Date:   Sat Nov 11 02:41:24 2023 +0900
+
+    ARTX-48 feat: 카카오페이 결제 연동 구현
